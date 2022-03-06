@@ -1,3 +1,5 @@
+Visit website: https://tsa-bit.github.io/web_design_challenge/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
